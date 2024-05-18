@@ -1,0 +1,25 @@
+.mainwindow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  Link {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.2rem;
+  }
+  
+  Link:hover {
+    text-decoration: underline;
+  }
+  

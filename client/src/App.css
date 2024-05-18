@@ -1,0 +1,13 @@
+/* src/App.css */
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ensure it takes full viewport height */
+  text-align: center; /* Center align the text */
+}
+
+h1 {
+  margin-bottom: 20px; /* Add some space between the title and the signature pad */
+}
